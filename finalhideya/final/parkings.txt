@@ -1,0 +1,9 @@
+1 CentralParking 123MainSt,CityCenter Open 200 08:00-22:00 5.00 1 0 A001
+2 WestSideParking 456WestAve,WestDistrict Closed 150 24/7 6.00 0 1 A002
+3 EastGateParking 789EastRd,EastCity Open 100 09:00-18:00 4.00 0 0 A003
+4 DowntownParking 321DowntownBlvd,City Open 300 07:00-23:00 3.50 1 0 A004
+5 AirportParking 101AirportRd,NearTerminal Closed 500 24/7 8.00 0 1 A005
+6 MallParking 222MallDr,ShoppingCenter Open 600 10:00-20:00 2.50 1 0 A006
+7 LibraryParking 555ParkSt,CityPark Open 50 08:00-20:00 3.00 1 0 A007
+8 TrainStationParking 777RailwayAve,CentralStation Closed 120 24/7 7.50 0 1 A008
+
